@@ -31,38 +31,29 @@ Sempaphores were used to avoid two threads using the same Data simultaneously an
 # Usage Example
 ## Client
 ### Launch
-
 ![mainMenu](./screenshots/MainMenu.png)
 
 ### Register New Account
-
 ![RegisterUser](./screenshots/RegisterUser.png)
 
 ### Post Login
-
 ![PostLogin](./screenshots/PostLogin.png)
 
 ### Print
-
 ![Print](./screenshots/Print.png)
 
 ## Server
 ###Listening
-
 ![ServerListen](./screenshots/ServerListen.png)
 
-###Receiving Register Request
-
+### Receiving Register Request
 ![ReceiveRegister](./screenshots/ReceiveRegister.png)
 
-###Receiving Print Request
-
+### Receiving Print Request
 ![ServerPrint](./screenshots/ServerPrint.png)
 
-###Receiving Multiple Print Requests From Different Users
-
+### Receiving Multiple Print Requests From Different Users
 ![ServerMultiPrint](./screenshots/ServerMultiPrint.png)
 
-###Logout
-
+### Logout
 ![ServerLogout](./screenshots/ServerLogout.png)
