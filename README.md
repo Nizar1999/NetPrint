@@ -43,7 +43,7 @@ Sempaphores were used to avoid two threads using the same Data simultaneously an
 ![Print](./screenshots/Print.png)
 
 ## Server
-###Listening
+### Listening
 ![ServerListen](./screenshots/ServerListen.png)
 
 ### Receiving Register Request
