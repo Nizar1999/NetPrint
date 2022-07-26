@@ -5,4 +5,4 @@
 
 Implementation of a networked printing service for handling vast amounts of print requests coming from users with different levels of privileges and priorities.
 
-![Further Information]("./NetPrint_Report.docx")
+[Further Information]("./NetPrint_Report.docx")
