@@ -29,3 +29,31 @@ To be able to handle multiple users simultaneously, multithreading was utilized.
 Sempaphores were used to avoid two threads using the same Data simultaneously and to achieve uninterrupted printing.
 
 # Usage Example
+## Client
+### Launch
+![mainMenu](./screenshots/MainMenu.png)
+
+### Register New Account
+![RegisterUser](./screenshots/RegisterUser.png)
+
+### Post Login
+![PostLogin](./screenshots/PostLogin.png)
+
+### Print
+![Print](./screenshots/Print.png)
+
+## Server
+###Listening
+![ServerListen](./screenshots/ServerListen.png)
+
+###Receiving Register Request
+![ReceiveRegister](./screenshots/ReceiveRegister.png)
+
+###Receiving Print Request
+![ServerPrint](./screenshots/ServerPrint.png)
+
+###Receiving Multiple Print Requests From Different Users
+![ServerMultiPrint](./screenshots/ServerMultiPrint.png)
+
+###Logout
+![ServerLogout](./screenshots/ServerLogout.png)
