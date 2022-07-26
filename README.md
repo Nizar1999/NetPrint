@@ -2,5 +2,6 @@
   <img src="https://github.com/Nizar1999/NetPrint/blob/main/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
-A console-based C/C++ network printing service designed for a university project.
-Refer to the report for more information.
+
+Implementation of a networked printing service for handling vast amounts of print requests coming from users with different levels of privileges and priorities.
+![Further Information]("./NetPrint_Report.docx")
